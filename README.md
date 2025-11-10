@@ -8,7 +8,6 @@ A modern crowdfunding web app built with React, Firebase, and Razorpay. Users ca
 
 - 🔐 Firebase Authentication (Email/Password)
 - 🗂️ Campaign creation with image uploads
-- 💸 Razorpay integration for secure payments
 - 📊 Real-time donation tracking with Firebase Realtime Database
 - 🎨 Responsive UI with glassmorphism and animated transitions
 - 🧠 Redux for global state management
@@ -19,7 +18,7 @@ A modern crowdfunding web app built with React, Firebase, and Razorpay. Users ca
 
 | Frontend | Backend | Payments | Storage |
 |----------|---------|----------|---------|
-| React + Vite | Firebase Realtime DB | Razorpay Checkout | Firebase Storage |
+| React + Vite | Firebase Realtime DB | LocalStorage | Firebase Storage |
 
 ---
 
