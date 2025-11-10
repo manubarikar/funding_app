@@ -25,6 +25,6 @@ A modern crowdfunding web app built with React, Firebase, and Razorpay. Users ca
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/crowdfund-platform.git
+git clone https://github.com/manubarikar/funding-app.git
 cd crowdfund-platform
 npm install
